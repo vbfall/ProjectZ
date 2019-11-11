@@ -1,0 +1,11 @@
+name: ProjectZ
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - tqdm
